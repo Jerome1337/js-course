@@ -1,4 +1,4 @@
-# Exercice - NodeJS
+# Exercice - Express
 
 ## Objectif
 
@@ -11,7 +11,8 @@ Récupérer les données du fichiers `cars.js` puis renvoyer les données corres
 
 ### 1. Le serveur
 
-Créer une serveur Express qui devra écouter le port `3000` et renvoyer un petit message d'information.
+Créer une serveur Express qui devra écouter le port `3000` et renvoyer un petit message d'information dans la console
+afin d'être sur qui fonctionne correctement.
 
 Tester le serveur sur votre navigateur en le lançant avec la command `node`.
 

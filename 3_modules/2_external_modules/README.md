@@ -8,7 +8,7 @@ Apprendre à installer et utiliser un module externe au projet avec NPM.
 
 ### 1. Préparation
 
-Initializer le projet avec la commande `npm`.
+Initialiser le projet avec la commande `npm`.
 
 Ajouter la librairie [lodash](https://www.npmjs.com/package/lodash) en tant que dépendance du projet.
 
@@ -39,7 +39,7 @@ $ node module.js
 { name: 'corbeau', genre: 'female' }
 ```
 
-#### **Last**
+#### **Nth**
 
 Pour le tableau `array_2`, récupérer la valeur de la troisième entrée du tableau avec la commande `nth` de Lodash.
 
